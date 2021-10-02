@@ -25,3 +25,5 @@ I'm open for collaboration on some interesting ideas, so feel free to get in tou
     <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
   </p>
+  <br/>
+
