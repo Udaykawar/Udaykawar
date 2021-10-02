@@ -3,8 +3,9 @@
 <p align="center">
 </p>
 I am Uday persued BE in COMPUTER ENGINEERING,I am passionate about world wide technologies and contributing in the betterment of society,My favourite working spaces are android<br>and web development . :wink:
-<br>
-
+<br/>
+I'm open for collaboration on some interesting ideas, so feel free to get in touch with me :)
+<br/>
 
 <h3> 🛠 &nbsp;Tech Stack 💻 &nbsp;</h3>
  
